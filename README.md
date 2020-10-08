@@ -1,5 +1,5 @@
 # School_District_Analysis
-Schooldistrict and performance alyses by using the Python and Jupytor Notebook
+School district and performance analyses by using the Python and Jupytor Notebook
 
 ## Project Background
 
