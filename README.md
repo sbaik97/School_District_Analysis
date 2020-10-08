@@ -53,7 +53,7 @@ There are 15 Analysis tables are in the Image folder. Attached are a few example
 District_summary without change
 ![final_compare_summaries I](/Images/original_district_summary.PNG)
 District_summary with change
-![final_compare_summaries I](/Images/cleaned_distric_summary.PNG)
+![final_compare_summaries I](/Images/cleaned_district_summary.PNG)
 
 3. The *final_compare_summary II* is the two schoool summary tables groupby each school, comparing between before and after removing incorrect data. The passing percentage rate, including both math and reading as well as overall passing percentage, are significantly decreases for Thomas High School
 
