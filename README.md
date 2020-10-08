@@ -51,7 +51,7 @@ There are 15 Analysis tables are in the Image folder. Attached are a few example
 2. The *final_compare_summary I* are the two distric summary tables to see the average socres, passing percentage of math, radeaing, and oaverall scores by comparing between before and after removing the ninth-grade math and reading scores from Thomas High School.
 
 District_summary without change
-![final_compare_summaries I](/Images/original_distric_summary.PNG)
+![final_compare_summaries I](/Images/original_district_summary.PNG)
 District_summary with change
 ![final_compare_summaries I](/Images/cleaned_distric_summary.PNG)
 
