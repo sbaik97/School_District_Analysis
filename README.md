@@ -26,7 +26,7 @@ School district and performance analyses by using the Python and Jupytor Noteboo
 * Visualize data with tables to tell story and showcase trends.
 
 ## Software/Tools/Libraries
-* Python 3.7.6, Jupyter Notebook 6.1.4
+* Python 3.7.6, Jupyter Notebook 6.1.4 with OS, PanDas, and NumPy.
 * Data Source: schools_complete.csv, students_complete.csv, 
 
 ----------------------
