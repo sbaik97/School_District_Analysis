@@ -48,19 +48,19 @@ There are 15 Analysis tables are in the Image folder. Attached are a few example
 
 -----------------------
 
-2. The *final_compare_summary I* are the two distric summary tables to see the average socres, passing percentage of math, radeaing, and oaverall scores by comparing between before and after removing the ninth-grade math and reading scores from Thomas High School.
+2. The *district_summary* are the two distric summary tables to see the average socres, passing percentage of math, radeaing, and oaverall scores by comparing between before and after removing the ninth-grade math and reading scores from Thomas High School.
 
 District_summary without change
-![final_compare_summaries I](/Images/original_district_summary.PNG)
+![District_summary](/Images/original_district_summary.PNG)
 District_summary with change
-![final_compare_summaries I](/Images/cleaned_district_summary.PNG)
+![fDistrict_summary](/Images/cleaned_district_summary.PNG)
 
-3. The *final_compare_summary II* is the two schoool summary tables groupby each school, comparing between before and after removing incorrect data. The passing percentage rate, including both math and reading as well as overall passing percentage, are significantly decreases for Thomas High School
+3. The *school_summary* is the two schoool summary tables groupby each school, comparing between before and after removing incorrect data. The passing percentage rate, including both math and reading as well as overall passing percentage, are significantly decreases for Thomas High School
 
 Per_school_summary without change
-![final_compare_summary I](/Images/original_per_school_summary.PNG)
+![School_summary](/Images/original_per_school_summary.PNG)
 Per_school_summary with change
-![final_compare_summary I](/Images/cleaned_per_school_summary.PNG)
+![School_summary](/Images/cleaned_per_school_summary.PNG)
 
 ## Conclusions
 
