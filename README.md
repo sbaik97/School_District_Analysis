@@ -33,11 +33,12 @@ Schooldistrict and performance alyses by using the Python and Jupytor Notebook
 
 # Challenge
 
-**Goal**
-*Comparing two analysis results after removing the ninth-grade math and reading scores from Thomas High School, makeing cohesive conclusions using the Pandas loc method in Jupyter Notebook.
+## Goals
+
+* Comparing two analysis results after removing the ninth-grade math and reading scores from Thomas High School, makeing cohesive conclusions using the Pandas loc method in Jupyter Notebook.
 
 
-## Tables
+## Results
 
 There are 15 Analysis tables are in the Image folder. Attached are a few examples of analysis. 
 
